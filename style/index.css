@@ -1,52 +1,67 @@
+
 body{
   background-color: #F2F2F2;
-  max-width: 298px;
-  width: 100%;
-  height: 3866px;
-}
-.nav-top{
-  margin-top: 20px;
-  height: 78px;
   width: 1400px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  height: 3866px;
+  
 }
-.sec-logo{
-  width: 186px;
-  height: 32px;
-  margin-left: 144px;
+a{
+  cursor: pointer;
 }
 
 .icon{
-  width: 31px;
-  height: 31px;
+  width: 30.16px;
+  height: 30px;
 }
 .Productly-img{
-  height: 29px;
-  width: 144px;
+  height: 28.97px;
+  width: 143.12px;
   margin-left: 2px;
 }
-li{
- list-style: none;
- display: inline-block;
- justify-content: space-between;
+
+.navbar{
+width: 1400px;
+height: 78px;
+margin-top: 23px;
+display: flex;
+justify-content: space-between;
 }
-li a{
- margin-right: 29px;
- height: 28px;
- width: 350px;
- font-family: 'Poppins', sans-serif;
- font-size: 14px;
- font-weight: normal;
- }
- a{
- text-decoration: none;
- color: #2F281E;
- letter-spacing: 0px;
- line-height: 28px;
- cursor: pointer;
- }
+.div-logo{
+  width: 185.34px;
+  height: 31.97px;
+  margin-left: 143.92px;
+  align-self: center;
+}
+ul{
+  width: fit-content;
+  height: fit-content;
+  margin: 0px;
+  list-style: none;
+  margin-left: 320.73px;
+  margin-right: 29px;
+  align-self: center;
+}
+li{
+  display: inline;
+  float: left;
+}
+li a {
+  color: #2F281E;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 0px;
+  line-height: 28;
+  text-decoration: none;
+  padding: 0px 5px;
+}
+.button-div{
+  width: fit-content;
+  height: fit-content;
+  margin-right: 145px;
+  margin-top: 15px;
+}
+
 .in-butt{
  height: 46px;
  width: 102px;
@@ -99,24 +114,22 @@ li a{
  opacity: 0.4;
 }
 /* header section */
+header{
+  margin: 137px;
+}
 .contenaier{
   display: flex;
   width: 1126px;
   height: 496px;
-  margin-top: 149px;
-  margin-left: 173px;
-  margin-right: 137px;
+  margin-top: 38px;
 }
-
 .left-sec-header{
   width: 518px;
   height: 331px;
-  margin-left: 137px;
-  margin-top: 232px;
-  margin-bottom: 82px;
+  margin-top: 83px;
 }
 .h1{
-  font-family: 'Poppins', sans-serif;
+  font-family: Poppins;
   font-size: 44px;
   font-weight: bold;
   letter-spacing: 0px;
@@ -190,14 +203,4 @@ li a{
   letter-spacing: 0px;
   color: #FF9900;
   text-decoration-line: underline;
-}
-.img-sect-header{
-  height: 496px;
-  width: 605px;
-  margin-bottom: 89px;
-  margin-top: 149px;
-}
-.header-img{
-  height: 496px;
-  width: 605px;
 }
