@@ -437,6 +437,111 @@ header{
  margin-left: 104px;
 }
 /* main section3 */
+.section3{
+ width: 100%;
+ height: 521px;
+ margin-top: 107px;
+ display: flex;
+ justify-content: center;
+}
+.contenaier-section3{
+ max-width: 1121px;
+ width: 100%;
+ height: 521px;
+ margin-left: 144px;
+ margin-right: 135px;
+ display: flex;
+}
+.img-div-section3{
+ max-width: 535px;
+ width: 100%;
+ height: 521px;
+}
+.info-box-section3{
+ max-width: 486px;
+ width: 100%;
+ height: 427px;
+ margin-left: 100px;
+ margin-top: 49px;
+ margin-bottom: 45px;
+ margin-right: 51px;
+ display: inline-block;
+ justify-content: flex-end;
+}
+.Topic-title-section3{
+ font-family: 'Poppins', sans-serif;
+ font-size: 16px;
+ font-weight: 500;
+ color: #544837;
+ display: flex;
+ margin: 0px 0px 0px 0px;
+}
+.title-h4-section3{
+ font-family: 'Poppins', sans-serif;
+ font-size: 36px;
+ font-weight: bold;
+ color: #2F281E;
+ margin-bottom: 22px;
+}
+.info-section3{
+ font-family: 'Poppins', sans-serif;
+ font-size: 16px;
+ font-weight: bold;
+ line-height: 26px;
+ /* or 163% */
+ color: #544837;
+ margin-bottom: 30px;
+}
+.Description-div1-section3 {
+ width: 465px;
+ height: 52px;
+ display: flex;
+ align-items: center;
+ margin-bottom: 30px;
+}
+.Description-div2-section3{
+ width: 465px;
+ height: 52px;
+ display: flex;
+ justify-content: start;
+ align-items: center;
+ margin-bottom: 31px;
+}
+.Description-div3-section3 {
+ width: 465px;
+ height: 52px;
+ display: flex;
+ align-items: center;
+}
+.icon1-section3 , .icon2-section3 , .icon3-section3{
+ width: 35px;
+ height: 35px;
+}
+.text-description1-section3 , .text-description3-section3{
+ font-family: 'Poppins', sans-serif;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 26px;
+ font-weight: 500;
+ /* or 163% */
+ color: #544837;
+ width: 385px;
+ height: 52px;
+ margin: 0px 0px 0px 30px;
+}
+.text-description2-section3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  font-weight: 500;
+  /* or 163% */
+  color: #544837;
+  width: 385px;
+  height: 52px;
+  margin: 0px 0px 0px 30px;
+}
+
 
 
 
